@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.io.FileNotFoundException;
 
-public class PencarianKata1
+public class PencarianKataArray
 {
     public static void main(String [] args)
     {   
