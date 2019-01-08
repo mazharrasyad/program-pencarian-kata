@@ -1,0 +1,12 @@
+File berisi angka
+
+satu adalah 1
+dua ini 2
+tiga itu 3
+empat adalah 4
+lima ini 5
+enam itu 6
+tujuh adalah 7
+delapan ini 8 
+sembilan itu 9
+sepuluh adalah 10

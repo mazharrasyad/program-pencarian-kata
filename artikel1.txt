@@ -1,2 +1,0 @@
-This is file test.
-We begin this chapter by discussing the common task of reading and writing files that contain text.

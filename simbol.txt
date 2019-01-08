@@ -1,0 +1,4 @@
+File berisi simbol
+
+Simbol kesatu ~ ` ! @ # $ % ^ & * ( ) - _ = +
+Simbol kedua [ ] { } \ | ; ; ' " , < > . ? /

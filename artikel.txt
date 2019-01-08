@@ -1,0 +1,7 @@
+File berisi artikel
+
+    Ini adalah artikel yang berisi artikel sebagai contoh untuk mencari suatu kata, yang
+digunakan untuk mencari kata-kata yang tersedia didalam artikel ini. Oleh sebab itu maka
+artikel ini dibuat beserta dengan file angka.txt dan simbol.txt mungkin itu saja sekian.
+
+    Terima Kasih
